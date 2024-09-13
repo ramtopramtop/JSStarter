@@ -14,3 +14,4 @@ const calculateTotal = (items) => {
 }
 
 console.log(`Total price: ${calculateTotal(items)}`);
+//new task
