@@ -18,3 +18,4 @@ const showContent = (items) => {
   
 }
 showContent(purchase);
+console.log(purchase);
